@@ -1,7 +1,7 @@
 -r requirements.txt
 flake8==3.6.0
 flake8-per-file-ignores==0.6
-freezegun
+freezegun==0.3.11
 ipython
 ipython-genutils
 lxml
