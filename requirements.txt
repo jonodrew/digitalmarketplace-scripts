@@ -10,8 +10,8 @@ git+https://github.com/alphagov/digitalmarketplace-utils.git@45.0.2#egg=digitalm
 git+https://github.com/alphagov/digitalmarketplace-apiclient.git@19.9.0#egg=digitalmarketplace-apiclient==19.9.0
 git+https://github.com/alphagov/digitalmarketplace-content-loader.git@5.1.0#egg=digitalmarketplace-content-loader==5.1.0
 
-awscli==1.16.60
-backoff==1.6.0
+awscli==1.16.92
+backoff==1.8.0
 clamd==1.0.2
 docopt==0.6.2
 jsonschema==2.6.0
@@ -20,17 +20,17 @@ pandas==0.23.4
 python-dateutil==2.7.5
 unicodecsv==0.14.1
 xeger==0.3.4
-yq==2.7.1
+yq==2.7.2
 
 ## The following requirements were added by pip freeze:
 asn1crypto==0.24.0
-boto3==1.9.50
-botocore==1.12.50
-certifi==2018.10.15
+boto3==1.9.82
+botocore==1.12.82
+certifi==2018.11.29
 cffi==1.11.5
 chardet==3.0.4
 Click==7.0
-colorama==0.4.0
+colorama==0.4.1
 contextlib2==0.5.5
 cryptography==2.4.2
 docutils==0.14
@@ -39,7 +39,7 @@ Flask-Script==2.0.6
 Flask-WTF==0.14.2
 fleep==1.0.1
 future==0.17.1
-idna==2.7
+idna==2.8
 inflection==0.3.1
 Jinja2==2.10
 jmespath==0.9.3
@@ -49,17 +49,17 @@ Markdown==3.0.1
 MarkupSafe==1.1.0
 monotonic==1.5
 notifications-python-client==5.2.0
-numpy==1.15.4
-odfpy==1.3.6
-pyasn1==0.4.4
+numpy==1.16.0
+odfpy==1.4.0
+pyasn1==0.4.5
 pycparser==2.19
-PyJWT==1.6.4
-pytz==2018.7
+PyJWT==1.7.1
+pytz==2018.9
 PyYAML==3.13
-requests==2.20.1
+requests==2.21.0
 rsa==4.0
 s3transfer==0.1.13
-six==1.11.0
+six==1.12.0
 urllib3==1.24.1
 Werkzeug==0.14.1
 workdays==1.4
