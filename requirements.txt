@@ -32,7 +32,7 @@ chardet==3.0.4
 Click==7.0
 colorama==0.4.1
 contextlib2==0.5.5
-cryptography==2.5
+cryptography==2.6
 docutils==0.14
 Flask-Login==0.4.1
 Flask-Script==2.0.6
