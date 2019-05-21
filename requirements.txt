@@ -45,7 +45,7 @@ Jinja2==2.10.1
 jmespath==0.9.4
 mailchimp3==3.0.7
 mandrill==1.0.57
-Markdown==3.1
+Markdown==3.1.1
 MarkupSafe==1.1.1
 monotonic==1.5
 notifications-python-client==5.3.0
