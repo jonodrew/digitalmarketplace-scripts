@@ -51,7 +51,7 @@ monotonic==1.5
 notifications-python-client==5.4.0
 numpy==1.17.4
 odfpy==1.4.0
-pyasn1==0.4.7
+pyasn1==0.4.8
 pycparser==2.19
 PyJWT==1.7.1
 pytz==2019.3
