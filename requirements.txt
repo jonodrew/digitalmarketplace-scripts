@@ -26,7 +26,7 @@ yq==2.9.2
 asn1crypto==1.2.0
 boto3==1.10.28
 botocore==1.13.28
-certifi==2019.9.11
+certifi==2019.11.28
 cffi==1.13.2
 chardet==3.0.4
 Click==7.0
