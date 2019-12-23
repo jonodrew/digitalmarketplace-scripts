@@ -20,7 +20,7 @@ pandas==0.25.3
 python-dateutil==2.8.1
 unicodecsv==0.14.1
 xeger==0.3.5
-yq==2.9.2
+yq==2.10.0
 
 ## The following requirements were added by pip freeze:
 asn1crypto==1.2.0
