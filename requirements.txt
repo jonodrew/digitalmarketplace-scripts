@@ -33,7 +33,7 @@ Click==7.0
 colorama==0.4.3
 contextlib2==0.6.0.post1
 cryptography==2.8
-docutils==0.15.2
+docutils==0.16
 Flask-Login==0.4.1
 Flask-Script==2.0.6
 Flask-WTF==0.14.2
