@@ -52,7 +52,7 @@ notifications-python-client==5.5.1
 numpy==1.18.1
 odfpy==1.4.1
 pyasn1==0.4.8
-pycparser==2.19
+pycparser==2.20
 PyJWT==1.7.1
 pytz==2019.3
 PyYAML==5.3
