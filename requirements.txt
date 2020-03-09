@@ -29,7 +29,7 @@ botocore==1.15.16
 certifi==2019.11.28
 cffi==1.14.0
 chardet==3.0.4
-Click==7.1
+Click==7.1.1
 colorama==0.4.3
 contextlib2==0.6.0.post1
 cryptography==2.8
