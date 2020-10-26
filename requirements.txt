@@ -32,7 +32,7 @@ chardet==3.0.4
 Click==7.1.2
 colorama==0.4.4
 contextlib2==0.6.0.post1
-cryptography==3.1.1
+cryptography==3.2
 docutils==0.16
 Flask-Login==0.5.0
 Flask-Script==2.0.6
@@ -45,7 +45,7 @@ Jinja2==2.11.2
 jmespath==0.10.0
 mailchimp3==3.0.14
 mandrill==1.0.59
-Markdown==3.3.2
+Markdown==3.3.3
 MarkupSafe==1.1.1
 monotonic==1.5
 notifications-python-client==5.7.0
