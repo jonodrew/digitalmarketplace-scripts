@@ -48,7 +48,7 @@ mandrill==1.0.59
 Markdown==3.3.3
 MarkupSafe==1.1.1
 monotonic==1.5
-notifications-python-client==6.0.0
+notifications-python-client==6.0.1
 numpy==1.19.5
 odfpy==1.4.1
 pyasn1==0.4.8
