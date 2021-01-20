@@ -55,7 +55,7 @@ pyasn1==0.4.8
 pycparser==2.20
 PyJWT==2.0.1
 pytz==2020.5
-PyYAML==5.4
+PyYAML==5.4.1
 requests==2.25.1
 rsa==4.7
 s3transfer==0.3.4
